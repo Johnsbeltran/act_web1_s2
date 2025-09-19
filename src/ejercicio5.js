@@ -1,5 +1,4 @@
 let dia = "sabado";
-
 switch (dia) {
     case "lunes":
     case "martes":
