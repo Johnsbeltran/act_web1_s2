@@ -1,5 +1,4 @@
 let calificacion = 83;
-
 if (calificacion >= 90 && calificacion <= 100) {
     console.log("A");
 } else if (calificacion >= 80 && calificacion <= 89) {
