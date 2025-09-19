@@ -3,5 +3,4 @@ let numoB =9;
 
 if (numA>numB){
     console.log("El numero mayor es ");
-    
 }
